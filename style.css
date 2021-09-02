@@ -1,0 +1,23 @@
+.container {
+  background-image: url("https://images.pexels.com/photos/1229861/pexels-photo-1229861.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
+  color: rgb(230, 226, 213);
+  background-size: contain;
+  height: 100vh;
+}
+.container > h1 {
+  color: rgb(105, 208, 237);
+}
+#emailHelp {
+  color: white;
+}
+.form-label {
+  font-size: 20px;
+}
+span {
+  color: rgb(255, 0, 55);
+  font-weight: 700;
+  font-size: 20px;
+}
+.link-primary {
+  font-size: 25px;
+}
